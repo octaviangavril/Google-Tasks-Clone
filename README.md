@@ -1,16 +1,37 @@
-# google_tasks_clone
+# Google Tasks Clone Project
 
-A new Flutter project.
+Google Tasks Clone lets you organize your tasks by making lists, checking completed tasks, and so on. This project is built using Flutter and Dart, making it a versatile application that works seamlessly on both web and mobile platforms.
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
+A project demo is available here: [Demo video](https://www.youtube.com/watch?v=DS3wbN8RaIA)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Create and manage task lists
+- Check off completed tasks
+- Sync tasks across web and mobile platforms
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+- **Flutter**: A UI toolkit for crafting natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Dart**: The programming language optimized for building mobile, desktop, server, and web applications.
+
+## Installation
+
+To install and run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/google-tasks-clone.git
+   ```
+   ```bash
+   cd google-tasks-clone
+   ```
+   ```bash
+   flutter pub get
+   ```
+   ```bash
+   flutter run
+   ```
+
