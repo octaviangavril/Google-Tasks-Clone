@@ -23,11 +23,11 @@ To install and run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/google-tasks-clone.git
+   git clone https://github.com/octaviangavril/Google-Tasks-Clone.git
    ```
 2. Navigate to the project directory
    ```bash
-   cd google-tasks-clone
+   cd Google-Tasks-Clone
    ```
 3. Install dependencies
    ```bash
