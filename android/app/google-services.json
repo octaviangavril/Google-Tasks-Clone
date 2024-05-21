@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147112510897",
+    "project_id": "tasksclone-9df5c",
+    "storage_bucket": "tasksclone-9df5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147112510897:android:4b3a4bffdb8302529ca990",
+        "android_client_info": {
+          "package_name": "com.example.google_tasks_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwlEV6I-hovLZUWcGWdwn36JLxKn7eMyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
