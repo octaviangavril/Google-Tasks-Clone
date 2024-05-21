@@ -25,12 +25,15 @@ To install and run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/google-tasks-clone.git
    ```
+2. Navigate to the project directory
    ```bash
    cd google-tasks-clone
    ```
+3. Install dependencies
    ```bash
    flutter pub get
    ```
+4. Run the app
    ```bash
    flutter run
    ```
